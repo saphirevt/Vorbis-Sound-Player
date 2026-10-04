@@ -34,4 +34,4 @@ The commands only work for clients/players (command blocks and server scripts do
 
 ## Links:
 - https://modrinth.com/mod/vorbis-sound-player
-- https://legacy.curseforge.com/minecraft/mc-mods/vorbis-sound-player-vsp / https://curseforge.com/minecraft/mc-mods/vorbis-sound-player-vsp
+- https://legacy.curseforge.com/minecraft/mc-mods/vorbis-sound-player / https://curseforge.com/minecraft/mc-mods/vorbis-sound-player
