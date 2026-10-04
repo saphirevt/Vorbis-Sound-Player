@@ -31,3 +31,7 @@ Initially, I created this mod for my own map/mode, but it might also help someon
 
 ## Note:
 The commands only work for clients/players (command blocks and server scripts don’t support them)! You must use KubeJS or another script mod and write data exchange between the server and client scripts to pass data for the command that the client will execute.
+
+## Links:
+- https://modrinth.com/mod/vorbis-sound-player
+- https://legacy.curseforge.com/minecraft/mc-mods/vorbis-sound-player-vsp / https://curseforge.com/minecraft/mc-mods/vorbis-sound-player-vsp
